@@ -9,6 +9,9 @@ public class Ejemplo1 {
 		System.out.println("Adios");
 		System.out.println("Hasta Luego");
 		System.out.println("Bailando");
+		System.out.println("Cantando");
+		
+
 	}
 
 }
