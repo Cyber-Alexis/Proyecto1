@@ -7,6 +7,8 @@ public class Ejemplo1 {
 
 		//Hola que tal ? 
 		System.out.println("Adios");
+		System.out.println("Hasta Luego");
+		
 	}
 
 }
